@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    padding:10px;
+}
+
+.login-button{
+    display:flex;
+    width:150px;
+    height:40px;
+    padding: 8px 33px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px solid #4B006E;
+    background:#FFF;
+    color: #4B006E;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; /* 22.4px */
+    letter-spacing: 1.6px;
+}
+
+.login-button:hover{
+    background: #4B006E;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color:#FFF;
+}
+
+.login-button:active{
+    filter: blur(2px);
+}
