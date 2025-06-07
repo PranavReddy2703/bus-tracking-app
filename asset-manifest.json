@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bus-tracking-app/static/css/main.4799a52d.css",
+    "main.js": "/bus-tracking-app/static/js/main.2152750e.js",
+    "static/js/453.8384a7e5.chunk.js": "/bus-tracking-app/static/js/453.8384a7e5.chunk.js",
+    "static/media/busRoute.svg": "/bus-tracking-app/static/media/busRoute.0de66dc7b0706f4caa2e7b65d0a305f3.svg",
+    "static/media/PhoneCall.svg": "/bus-tracking-app/static/media/PhoneCall.a6169d4e909dc1052c4c3e1b64481c90.svg",
+    "index.html": "/bus-tracking-app/index.html",
+    "static/media/Email.svg": "/bus-tracking-app/static/media/Email.0355b163eae4eaa12c718ea84c864fc4.svg",
+    "main.4799a52d.css.map": "/bus-tracking-app/static/css/main.4799a52d.css.map",
+    "main.2152750e.js.map": "/bus-tracking-app/static/js/main.2152750e.js.map",
+    "453.8384a7e5.chunk.js.map": "/bus-tracking-app/static/js/453.8384a7e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4799a52d.css",
+    "static/js/main.2152750e.js"
+  ]
+}
